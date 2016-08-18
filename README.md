@@ -1,12 +1,12 @@
-#Basic Project
+#Pet-Registration
 
-*Simple Project
+*Welcome To Pet Registration Application
 
 **Java 7**
 
 * Java Application
 * Junit
 
-Simple Java Application. 
+Pet Registration 
 
 [Anatoliy Starinskiy](http://ebay.com)
